@@ -28,8 +28,8 @@
   <tr>
     <td align="center" width="33%">
       <img src="./Flotix Browser.png" alt="Flotix logo" height="72"><br/><br/>
-      <b>Flotix</b><br/>
-      <sub>Privacy browser — fast, focused, distraction-free.</sub>
+      <b>Flotix Dev Tools</b><br/>
+      <sub>Roblox developer tools — plug-and-play systems, licensing, and game binding.</sub>
       <br/><br/>
       <a href="https://flotix.xyz">
         <img alt="flotix.xyz" src="https://img.shields.io/badge/flotix.xyz-7E3AF2?style=for-the-badge&labelColor=2E1065&color=7E3AF2">
