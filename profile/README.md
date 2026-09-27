@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./bwd-logo.png" alt="BuildWithDani" width="120" />
+<img src="./bwd-logo.png" alt="" width="72" />
 
 # BuildWithDani
 
@@ -11,39 +11,24 @@
 [![Website](https://img.shields.io/badge/buildwithdani.com-0d1224?style=for-the-badge&logo=vercel&logoColor=white)](https://buildwithdani.com)
 [![X](https://img.shields.io/badge/@BuildWithDani-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BuildWithDani)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7WX9B9rktg)
+![Status](https://img.shields.io/badge/status-actively%20building-2f86de?style=for-the-badge)
 
 </div>
 
 <br/>
 
-### About
+> One person. No investors. No roadmap decks.
+> If it's worth building, it gets built. If it's worth shipping, it ships before it's perfect.
 
-BuildWithDani is a one-person independent product studio. No investors, no roadmap decks, no permission needed to ship. If something's worth building, it gets built, and if it's worth shipping, it goes out the door before it's perfect.
+<br/>
 
-### How we build
+<div align="center">
 
-<table>
-<tr>
-<td>
+**Fast** — idea to shipped in days &nbsp;·&nbsp; **Real** — solves an actual problem first &nbsp;·&nbsp; **Quiet** — we announce ships, not roadmaps
 
-**Fast**
-Idea to shipped in days, not quarters. Momentum beats planning.
+</div>
 
-</td>
-<td>
-
-**Real**
-Built to solve an actual problem first. Everything else is a bonus.
-
-</td>
-<td>
-
-**Quiet**
-We don't announce roadmaps. We announce ships.
-
-</td>
-</tr>
-</table>
+<br/>
 
 ### Stack
 
@@ -53,10 +38,8 @@ We don't announce roadmaps. We announce ships.
 ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white)
 
----
+<br/>
 
 <div align="center">
-
-More on the way. Follow along on X for what ships next.
-
+<sub>More on the way. Follow along on X for what ships next.</sub>
 </div>
