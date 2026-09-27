@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./certificate.svg" width="100%" alt="Certificate of registry: BuildWithDani, independent product studio. Captain @heyseyfu." />
+  <img src="./cutaway.svg" width="100%" alt="Cross-section of the BuildWithDani paper boat: the bridge, drafting room, engine room and cargo hold." />
   <img src="./departures.svg" width="100%" alt="Next departure: TBA. Status: in drydock." />
 </div>
 
